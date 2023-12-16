@@ -7,7 +7,8 @@ from pathlib import Path
 
 import qlib
 import fire
-import ruamel.yaml as yaml
+# import ruamel.yaml as yaml
+import yaml
 from qlib.config import C
 from qlib.model.trainer import task_train
 from qlib.utils.data import update_config

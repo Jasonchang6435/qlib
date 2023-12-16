@@ -1,0 +1,7 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Collecting ruamel.yaml
+  Downloading https://mirrors.aliyun.com/pypi/packages/57/db/4b74a29f5fd175aea3ff0d95f8230d9bb8a54e38d963c6f96065b9e2eef3/ruamel.yaml-0.18.5-py3-none-any.whl (116 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 116.4/116.4 kB 1.4 MB/s eta 0:00:00
+Requirement already satisfied: ruamel.yaml.clib>=0.2.7 in /home/changyuan/anaconda3/envs/python38/lib/python3.8/site-packages (from ruamel.yaml) (0.2.8)
+Installing collected packages: ruamel.yaml
+Successfully installed ruamel.yaml-0.18.5
